@@ -172,7 +172,7 @@ public class FmAudio : MonoBehaviour
                     ) * FmA.gain;// * 0.5f * ((float)n / (float)numOutSamples);
                 
 
-                //  トリガー時おノイズ対策用fade処理
+                //  トリガー時ノイズ対策用fade処理
                 float noteOnFaderValue = 0;
                 if(phase_global < 4410 && lastValue_global != 0){
                     noteOnFaderValue = (lastValue_global * Mathf.Exp(-5.0f *  ((float)phase_global + 1.0f) / 4410.0f));
