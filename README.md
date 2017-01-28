@@ -7,7 +7,9 @@ tatmosFmの特徴
 各オペレータに入力が２つある ModOpId,Mod2OpId
 各オペレータにFb(フィードバック）がある
 Waveが選べる(サイン波形とノイズ波形)
-DXFi（http://www.taktech.org/takm/DXi/DXi_for_iPhone.html）をすごく参考にしています。
+キャリアかどうかのフラグがある（キャリアの場合基本の音程との掛け合わせが行われる）
+DXFi（ http://www.taktech.org/takm/DXi/DXi_for_iPhone.html ）
+をすごく参考にしています。
 
 プリセット
 name, 
