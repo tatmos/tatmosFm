@@ -20,3 +20,7 @@ op3
 op4  
   
 動画：https://youtu.be/kYpW1z12pf4  
+
+# ToDo
+- Total LFO
+- Total Sweep
