@@ -24,16 +24,16 @@ op4
 # Class
 
 ## FmAudio.cs
-WaveGen ノイズかSinを返す
-FMRealtimePopAudio 実際のFMの計算
+- WaveGen ノイズかSinを返す
+- FMRealtimePopAudio 実際のFMの計算
 
 ## FmAudioManager.cs
-FmAudioManager シーケンス再生やプリセットなど
+- FmAudioManager シーケンス再生やプリセットなど
 
 ## FmClass.cs
-ADSR エンベロープ処理
-FmOparetor　オペレータの設定
-FmParam　4つのオペレータと再生処理のための設定
+- ADSR エンベロープ処理
+- FmOparetor　オペレータの設定
+- FmParam　4つのオペレータと再生処理のための設定
 
 # ToDo
 - Total LFO
